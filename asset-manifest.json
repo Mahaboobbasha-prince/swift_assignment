@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mahaboobbasha-prince/swift_assignment.git/static/css/main.1e0eb0f6.css",
+    "main.js": "/Mahaboobbasha-prince/swift_assignment.git/static/js/main.91e08b98.js",
+    "static/js/453.d236a452.chunk.js": "/Mahaboobbasha-prince/swift_assignment.git/static/js/453.d236a452.chunk.js",
+    "index.html": "/Mahaboobbasha-prince/swift_assignment.git/index.html",
+    "main.1e0eb0f6.css.map": "/Mahaboobbasha-prince/swift_assignment.git/static/css/main.1e0eb0f6.css.map",
+    "main.91e08b98.js.map": "/Mahaboobbasha-prince/swift_assignment.git/static/js/main.91e08b98.js.map",
+    "453.d236a452.chunk.js.map": "/Mahaboobbasha-prince/swift_assignment.git/static/js/453.d236a452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0eb0f6.css",
+    "static/js/main.91e08b98.js"
+  ]
+}
